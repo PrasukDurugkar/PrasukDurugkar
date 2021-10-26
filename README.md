@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrasukDurugkar
 - 👀 I’m interested in Web Development and Android Development
-- 🌱 I’m currently learning PHP and MySqli
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate with other programmer and developer like me.
 - 📫 How to reach me you can reach me on instagram (username:PrasukDurugkar)
 
