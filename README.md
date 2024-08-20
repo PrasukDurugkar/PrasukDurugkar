@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @PrasukDurugkar
-- 👀 I’m interested in Web Development and Android Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate with other programmer and developer like me.
-- 📫 How to reach me you can reach me on instagram (username: prasukdurugkar)
+Hi there, I'm Prasuk Durugkar! 👋
+Welcome to my GitHub! I'm a MERN Stack Developer who loves turning ideas into real-world applications. My journey in tech is fueled by a passion for coding, design, and continuous learning.
 
-<!---
-PrasukDurugkar/PrasukDurugkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 What I'm Working On:
+LegalConnect: Building a platform that connects users with legal professionals. Full-stack development using React, Node.js, and MongoDB.
+Shopping GO: A modern e-commerce site with React, Tailwind CSS, and Redux.
+🌱 What I'm Learning:
+Exploring GraphQL and PostgreSQL to expand my backend skills.
+Diving deeper into AWS for cloud services.
+💻 My Tech Stack:
+Frontend: React, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+Backend: Node.js, Express.js, RESTful APIs
+Databases: MongoDB, SQL, Firebase
+UI/UX: Figma, Adobe XD
+Tools: Git, GitHub, Postman, VS Code
+🛠️ Projects:
+LegalConnect: A platform linking users with legal professionals.
+Shopping GO: A user-friendly e-commerce site with secure checkout and order tracking.
+🎓 Certifications:
+Google UX Design Professional Certificate
+AWS Academy Cloud Foundations
+📫 How to Reach Me:
+Email: prasuk121@gmail.com
+LinkedIn: https://www.linkedin.com/in/prasukdurugkar
+⚡ Fun Fact:
+When I'm not coding, you might find me exploring new tech trends, tinkering with gadgets, or playing video games.
